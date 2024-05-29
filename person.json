@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "firstname": "John",
+  "surname": "Doe",
+  "age": 30,
+  "address": {
+    "street": "123 Elm St",
+    "city": "Springfield",
+    "state": "IL",
+    "postalcode": "62701"
+  },
+  "phonenumbers": [
+    {
+      "number": "217-555-1212",
+      "type": "Home"
+    },
+    {
+      "number": "217-555-3434",
+      "type": "Work"
+    }
+  ]
+}
